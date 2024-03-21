@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Arham A</h1>
 
 
-<br clear="both">
+/*<br clear="both">/*
 
 <h3 align="center">A Passionate Frontend developer from India 🎉</h3>
 
