@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Arham A</h1>
 
-###
 
 <br clear="both">
 
