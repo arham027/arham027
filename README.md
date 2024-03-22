@@ -20,7 +20,7 @@
 
 
 
-<h3 align="left">- 👀 I thrive on crafting captivating websites.<br>- 🌱 Currently delving into the depths of Full Stack web development.<br>- 👨‍💻 Explore my projects at https://www.crio.do/learn/portfolio/mohammed-arham273/<br>- 💬 Let's chat about React Js, HTML, CSS, Bootstrap, JavaScript, Git, Data Structures, and Algorithms.<br>- 📫 Reach out: +91 7537812345 | mohammed.arham273@gmail.com | LinkedIn<br>- 🚀 Dive into my code universe on GitHub.</h3>
+<h3 align="left">- 👀 I thrive on crafting captivating websites.<br>- 🌱 Currently delving into the depths of Full Stack web development.<br>- 👨‍💻 Explore my projects at https://www.crio.do/learn/portfolio/mohammed-arham273/<br>- 💬 Let's chat about React Js, HTML, CSS, Bootstrap, JavaScript, Git, Data Structures, and Algorithms.<br>- 📫 Reach out: +91 7537812345 | mohammed.arham273@gmail.com | https://linkedin.com/in/mohammed-arham-532b90221/<br>- 🚀 Dive into my code universe on GitHub.</h3>
 
 ###
 
